@@ -1,17 +1,9 @@
 ### About me
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1]: [Twitter](https://twitter.com/anna__geller)
-
-<!--
-**anna-geller/anna-geller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🤖 My private space on the Internet: [annageller.com](http://annageller.com/) 
-- 📚 Blog on Medium: [annageller.medium.com](https://annageller.medium.com/)
+- ✨ Blog on Medium: [annageller.medium.com](https://annageller.medium.com/)
+- 🤖 Website: [annageller.com](http://annageller.com/) 
 - 💬 LinkedIn: [anna-geller-12a86811a](https://www.linkedin.com/in/anna-geller-12a86811a/)
+- 🐦 [Twitter](https://twitter.com/anna__geller)
 - 📫 The easiest way to reach me is via email: contact@annageller.com 
 
 
