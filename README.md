@@ -28,5 +28,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=dataflow-ops-aws-eks)](https://github.com/anna-geller/dataflow-ops-aws-eks) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-docker-deployment)](https://github.com/anna-geller/prefect-docker-deployment) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-getting-started)](https://github.com/anna-geller/prefect-getting-started) 
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-aws-lambda)](https://github.com/anna-geller/prefect-aws-lambda) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-streaming)](https://github.com/anna-geller/prefect-streaming) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-docker-deployment)](https://github.com/anna-geller/prefect-docker-deployment) 
