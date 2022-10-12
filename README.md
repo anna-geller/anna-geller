@@ -30,6 +30,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-getting-started)](https://github.com/anna-geller/prefect-getting-started) 
 
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-dataplatform)](https://github.com/anna-geller/prefect-dataplatform)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-aws-lambda)](https://github.com/anna-geller/prefect-aws-lambda) 
 
