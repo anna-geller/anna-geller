@@ -17,9 +17,9 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/3" alt="Recent Article 3">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/4" alt="Recent Article 4">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/5" alt="Recent Article 5">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/6" alt="Recent Article 6">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/7" alt="Recent Article 7">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/8" alt="Recent Article 8">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@annageller/9" alt="Recent Article 9">
     
 ### Repositories about Prefect
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-deployment-patterns)](https://github.com/anna-geller/prefect-deployment-patterns)
