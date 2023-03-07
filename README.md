@@ -23,7 +23,7 @@
 ### Repositories about Prefect
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-deployment-patterns)](https://github.com/anna-geller/prefect-deployment-patterns)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=dataflow-ops)](https://github.com/anna-geller/dataflow-ops)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=dataflow-ops-aws-eks)](https://github.com/anna-geller/dataflow-ops-aws-eks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-cloud-gcp)](https://github.com/anna-geller/prefect-cloud-gcp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-getting-started)](https://github.com/anna-geller/prefect-getting-started) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-dataplatform)](https://github.com/anna-geller/prefect-dataplatform)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anna-geller&repo=prefect-aws-lambda)](https://github.com/anna-geller/prefect-aws-lambda)
